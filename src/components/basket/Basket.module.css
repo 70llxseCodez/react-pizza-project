@@ -1,0 +1,120 @@
+.Top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #F4F4F4;
+    padding-bottom: 30px
+}
+
+.generalBasket {
+    width: 820px;
+    margin: 0 auto;
+}
+
+.PizzaSave {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.PizzaSave button {
+    background: transparent;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.douter_pizzasave1 {
+    display: flex;
+    align-items: center;
+}
+
+.douter_pizzasave1 img {
+    margin-right: 20px;
+}
+
+.douter_pizzasave2 {
+    display: flex;
+    align-items: center;
+}
+
+.douter_pizzasave2 h3 {
+    margin: 0 12px;
+}
+
+.douter_pizzasave2 button {
+    border: 1px solid #FE5F1E;
+    color: #FE5F1E;
+    font-size: 20px;
+    padding: 1.5px 9px;
+}
+
+.douter_pizzasave3 button {
+    padding: 6px 11px;
+    border: 1px solid #D0D0D0;
+}
+
+.general_price {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.general_price span {
+    font-weight: bolder;
+}
+
+.price2 span {
+    color: #FE5F1E;
+}
+
+.backAndBuy {
+    display: flex;
+    justify-content: space-between;
+}
+
+.backAndBuy button {
+    padding: 18px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.first_button button {
+    background: #FFFFFF;
+    border: 1px solid #D3D3D3;
+    color: #FFFFFF;
+}
+
+.first_button a {
+    color: #D3D3D3;
+}
+
+.second_button button {
+    background: #FE5F1E;
+    border: none;
+    font-weight: bolder;
+    color: #fff;
+}
+
+.img_big img {
+    width: 80px;
+}
+
+.emty {
+    text-align: center;
+}
+
+.emty h2 {
+    margin-bottom: 20px;
+    margin-top: 80px;
+}
+
+.emty p {
+    margin-bottom: 47px;
+    color: #777777;
+}
+
+.img {
+    margin-bottom: 50px;
+}

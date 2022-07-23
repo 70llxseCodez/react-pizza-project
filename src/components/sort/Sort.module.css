@@ -1,0 +1,22 @@
+.sort {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sortsItem {
+    background: #F9F9F9;
+    border-radius: 30px;
+    padding: 13px 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.activeSortItem {
+    background: #282828;
+    color: #fff;
+    border-radius: 30px;
+    padding: 13px 30px;
+    font-weight: bold;
+    cursor: pointer;
+}

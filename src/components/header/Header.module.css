@@ -1,0 +1,46 @@
+.header {
+    margin-top: 50px;
+    height: 150px;
+    align-items: center;
+    border-bottom: 1px solid #F7F7F7;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header input {
+    border: 1px solid #b2b0b0;
+    border-radius: 5px;
+    height: 30px;
+    width: 300px;
+    padding-left: 10px;
+}
+
+.priceAndBasket {
+    display: flex;
+    align-items: center;
+    background-color: #FE5F1E;
+    color: #fff;
+    padding: 12px 23px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.priceAndBasket span {
+    width: 1px;
+    height: 25px;
+    background: rgba(255, 255, 255, 0.25);
+    margin: 0 10px 0 10px;
+}
+
+.priceAndBasket img {
+    margin-right: 10px;
+}
+
+.Logo {
+    display: flex;
+    align-items: center;
+}
+
+.Logo img {
+    margin-right: 10px;
+}
